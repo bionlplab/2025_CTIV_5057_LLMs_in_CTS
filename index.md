@@ -25,14 +25,15 @@ The following texts are useful, but none are required.
 
 | Week | Topic 1 | Event | Deadline |
 |----|-------------------------------------------|-----------------------------|---------------------|
-| 1/27 | Course overview | |
+| 1/27 | Course overview | Final project |
 | 2/3 | Introduction to NLP | |
-| 2/10 | Large Language Model | Assignment 1 |
+| 2/10 | Large Language Model | Assignment 1 | Team members decided
 | 2/17 | No classes | | |
-| 2/24 | Prompt engineering | Final project |
+| 2/24 | Prompt engineering |  |
 | 3/3 | Training/fine-tuning | Assignment 2 | Assignment 1
-| 3/10 | LLM evaluation | |
+| 3/10 | LLM evaluation | | Final project proposal
 | 3/17 | Knowledge and reasoning | | 
 | 3/24 | LLM agent | | Assignment 2
 | 3/31 | Multimodal foundation model | |
-| 4/7 | LLM applications in healthcare | | Final project
+| 4/7 | Final project presentation | | 
+| 4/14 | | | Final project
