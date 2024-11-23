@@ -1,5 +1,3 @@
-# CTIV 5057: Introduction to GPT & LLMs in Clinical & Translational Research
-
 **Instructor**: Yifan Peng ([yip4002@med.cornell.edu](yip4002@med.cornell.edu))<br>
 **Time**: Jan. 27, 2025 - April 7, 2025, 3:30-4:45 pm East Time on Mondays<br>
 **Grading**: Letter grade
