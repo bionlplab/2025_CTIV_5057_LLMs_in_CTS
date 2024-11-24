@@ -1,4 +1,5 @@
-title: "CTIV 5057: <br>Introduction to GPT & LLMs<br> in Clinical & Translational Research"
+title: "Introduction to GPT & LLMs<br> in Clinical & Translational Research"
+description: "CTIV 5057"
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
