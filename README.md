@@ -1,4 +1,4 @@
-## CTIV 5057: Introduction to GPT & LLMs in Clinical & Translational Research
+## CTIV 5057: Introduction to GPT & LLMs
 
 **Spring, 2025**
 
