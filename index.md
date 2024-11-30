@@ -30,9 +30,9 @@ The following texts are useful, but none are required.
 | 2/17 | No classes | | |
 | 2/24 | Prompt engineering |  |
 | 3/3 | Training/fine-tuning | Assignment 2 | Assignment 1
-| 3/10 | LLM evaluation | | Final project proposal
-| 3/17 | Knowledge and reasoning | | 
-| 3/24 | LLM agent | | Assignment 2
-| 3/31 | Multimodal foundation model | |
+| 3/10 | Knowledge and reasoning | | Final project proposal
+| 3/17 | LLM agent | | 
+| 3/24 | Multimodal foundation model | | Assignment 2
+| 3/31 | LLM in healthcare | |
 | 4/7 | Final project presentation | | 
 | 4/14 | | | Final project
